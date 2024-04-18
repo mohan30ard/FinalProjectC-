@@ -1,0 +1,423 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B6E949E-67A2-4D20-8225-1275FA5E0C48}|phase-1.csproj|c:\\users\\mohan\\onedrive\\documents\\backup\\phase-1\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B6E949E-67A2-4D20-8225-1275FA5E0C48}|phase-1.csproj|solutionrelative:accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B6E949E-67A2-4D20-8225-1275FA5E0C48}|phase-1.csproj|c:\\users\\mohan\\onedrive\\documents\\backup\\phase-1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B6E949E-67A2-4D20-8225-1275FA5E0C48}|phase-1.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B6E949E-67A2-4D20-8225-1275FA5E0C48}|phase-1.csproj|c:\\users\\mohan\\onedrive\\documents\\backup\\phase-1\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B6E949E-67A2-4D20-8225-1275FA5E0C48}|phase-1.csproj|solutionrelative:models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B6E949E-67A2-4D20-8225-1275FA5E0C48}|phase-1.csproj|c:\\users\\mohan\\onedrive\\documents\\backup\\phase-1\\accountcreationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B6E949E-67A2-4D20-8225-1275FA5E0C48}|phase-1.csproj|solutionrelative:accountcreationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B6E949E-67A2-4D20-8225-1275FA5E0C48}|phase-1.csproj|C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B6E949E-67A2-4D20-8225-1275FA5E0C48}|phase-1.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B6E949E-67A2-4D20-8225-1275FA5E0C48}|phase-1.csproj|c:\\users\\mohan\\onedrive\\documents\\backup\\phase-1\\servicelayer\\impl\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B6E949E-67A2-4D20-8225-1275FA5E0C48}|phase-1.csproj|solutionrelative:servicelayer\\impl\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B6E949E-67A2-4D20-8225-1275FA5E0C48}|phase-1.csproj|c:\\users\\mohan\\onedrive\\documents\\backup\\phase-1\\servicelayer\\impl\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B6E949E-67A2-4D20-8225-1275FA5E0C48}|phase-1.csproj|solutionrelative:servicelayer\\impl\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B6E949E-67A2-4D20-8225-1275FA5E0C48}|phase-1.csproj|c:\\users\\mohan\\onedrive\\documents\\backup\\phase-1\\servicelayer\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B6E949E-67A2-4D20-8225-1275FA5E0C48}|phase-1.csproj|solutionrelative:servicelayer\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B6E949E-67A2-4D20-8225-1275FA5E0C48}|phase-1.csproj|c:\\users\\mohan\\onedrive\\documents\\backup\\phase-1\\servicelayer\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B6E949E-67A2-4D20-8225-1275FA5E0C48}|phase-1.csproj|solutionrelative:servicelayer\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B6E949E-67A2-4D20-8225-1275FA5E0C48}|phase-1.csproj|c:\\users\\mohan\\onedrive\\documents\\backup\\phase-1\\transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B6E949E-67A2-4D20-8225-1275FA5E0C48}|phase-1.csproj|solutionrelative:transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B6E949E-67A2-4D20-8225-1275FA5E0C48}|phase-1.csproj|c:\\users\\mohan\\onedrive\\documents\\backup\\phase-1\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B6E949E-67A2-4D20-8225-1275FA5E0C48}|phase-1.csproj|solutionrelative:transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B6E949E-67A2-4D20-8225-1275FA5E0C48}|phase-1.csproj|c:\\users\\mohan\\onedrive\\documents\\backup\\phase-1\\repositories\\impl\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B6E949E-67A2-4D20-8225-1275FA5E0C48}|phase-1.csproj|solutionrelative:repositories\\impl\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B6E949E-67A2-4D20-8225-1275FA5E0C48}|phase-1.csproj|c:\\users\\mohan\\onedrive\\documents\\backup\\phase-1\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B6E949E-67A2-4D20-8225-1275FA5E0C48}|phase-1.csproj|solutionrelative:models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B6E949E-67A2-4D20-8225-1275FA5E0C48}|phase-1.csproj|c:\\users\\mohan\\onedrive\\documents\\backup\\phase-1\\repositories\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B6E949E-67A2-4D20-8225-1275FA5E0C48}|phase-1.csproj|solutionrelative:repositories\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B6E949E-67A2-4D20-8225-1275FA5E0C48}|phase-1.csproj|c:\\users\\mohan\\onedrive\\documents\\backup\\phase-1\\repositories\\impl\\accountapprovalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B6E949E-67A2-4D20-8225-1275FA5E0C48}|phase-1.csproj|solutionrelative:repositories\\impl\\accountapprovalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B6E949E-67A2-4D20-8225-1275FA5E0C48}|phase-1.csproj|c:\\users\\mohan\\onedrive\\documents\\backup\\phase-1\\repositories\\iaccountapprovalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B6E949E-67A2-4D20-8225-1275FA5E0C48}|phase-1.csproj|solutionrelative:repositories\\iaccountapprovalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B6E949E-67A2-4D20-8225-1275FA5E0C48}|phase-1.csproj|c:\\users\\mohan\\onedrive\\documents\\backup\\phase-1\\repositories\\impl\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B6E949E-67A2-4D20-8225-1275FA5E0C48}|phase-1.csproj|solutionrelative:repositories\\impl\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B6E949E-67A2-4D20-8225-1275FA5E0C48}|phase-1.csproj|c:\\users\\mohan\\onedrive\\documents\\backup\\phase-1\\repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B6E949E-67A2-4D20-8225-1275FA5E0C48}|phase-1.csproj|solutionrelative:repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B6E949E-67A2-4D20-8225-1275FA5E0C48}|phase-1.csproj|c:\\users\\mohan\\onedrive\\documents\\backup\\phase-1\\models\\bankdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B6E949E-67A2-4D20-8225-1275FA5E0C48}|phase-1.csproj|solutionrelative:models\\bankdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B6E949E-67A2-4D20-8225-1275FA5E0C48}|phase-1.csproj|c:\\users\\mohan\\onedrive\\documents\\backup\\phase-1\\dbclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B6E949E-67A2-4D20-8225-1275FA5E0C48}|phase-1.csproj|solutionrelative:dbclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mohan\\OneDrive\\Documents\\phase-1\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B6E949E-67A2-4D20-8225-1275FA5E0C48}|phase-1.csproj|c:\\users\\mohan\\onedrive\\documents\\backup\\phase-1\\accountlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B6E949E-67A2-4D20-8225-1275FA5E0C48}|phase-1.csproj|solutionrelative:accountlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B6E949E-67A2-4D20-8225-1275FA5E0C48}|phase-1.csproj|c:\\users\\mohan\\onedrive\\documents\\backup\\phase-1\\accountdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B6E949E-67A2-4D20-8225-1275FA5E0C48}|phase-1.csproj|solutionrelative:accountdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B6E949E-67A2-4D20-8225-1275FA5E0C48}|phase-1.csproj|C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B6E949E-67A2-4D20-8225-1275FA5E0C48}|phase-1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\obj\\Debug\\net6.0-windows\\phase-1.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net6.0-windows\\phase-1.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountManager.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\AccountManager.cs",
+              "RelativeDocumentMoniker": "AccountManager.cs",
+              "ToolTip": "C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\AccountManager.cs*",
+              "RelativeToolTip": "AccountManager.cs*",
+              "ViewState": "AQIAACwAAAAAAAAAAAAkwDYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T22:15:50.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountCreationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\AccountCreationRequest.cs",
+              "RelativeDocumentMoniker": "AccountCreationRequest.cs",
+              "ToolTip": "C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\AccountCreationRequest.cs",
+              "RelativeToolTip": "AccountCreationRequest.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAnwGgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T22:12:30.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\Main.cs*",
+              "RelativeToolTip": "Main.cs*",
+              "ViewState": "AQIAAAIAAAAAAAAAAIAwwA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T21:03:38.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\ServiceLayer\\ITransactionService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\ITransactionService.cs",
+              "ToolTip": "C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\ServiceLayer\\ITransactionService.cs",
+              "RelativeToolTip": "ServiceLayer\\ITransactionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T19:21:54.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Models\\Account.cs",
+              "ToolTip": "C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\Models\\Account.cs",
+              "RelativeToolTip": "Models\\Account.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwCMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T18:30:00.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\ServiceLayer\\Impl\\TransactionService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Impl\\TransactionService.cs",
+              "ToolTip": "C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\ServiceLayer\\Impl\\TransactionService.cs",
+              "RelativeToolTip": "ServiceLayer\\Impl\\TransactionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T19:22:33.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\ServiceLayer\\IAccountService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\IAccountService.cs",
+              "ToolTip": "C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\ServiceLayer\\IAccountService.cs",
+              "RelativeToolTip": "ServiceLayer\\IAccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T19:21:24.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\Models\\Transaction.cs",
+              "RelativeToolTip": "Models\\Transaction.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwBcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T19:16:26.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\Main.cs [Design]*",
+              "RelativeToolTip": "Main.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T04:16:31.019Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\ServiceLayer\\Impl\\AccountService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Impl\\AccountService.cs",
+              "ToolTip": "C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\ServiceLayer\\Impl\\AccountService.cs",
+              "RelativeToolTip": "ServiceLayer\\Impl\\AccountService.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAIwDMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T19:22:19.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Transactions.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\Transactions.cs",
+              "RelativeDocumentMoniker": "Transactions.cs",
+              "ToolTip": "C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\Transactions.cs",
+              "RelativeToolTip": "Transactions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T19:14:18.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\Transaction.cs",
+              "RelativeDocumentMoniker": "Transaction.cs",
+              "ToolTip": "C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\Transaction.cs",
+              "RelativeToolTip": "Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T19:14:16.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\Repositories\\Impl\\TransactionRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Impl\\TransactionRepository.cs",
+              "ToolTip": "C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\Repositories\\Impl\\TransactionRepository.cs",
+              "RelativeToolTip": "Repositories\\Impl\\TransactionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T19:13:25.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ITransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\Repositories\\ITransactionRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ITransactionRepository.cs",
+              "ToolTip": "C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\Repositories\\ITransactionRepository.cs",
+              "RelativeToolTip": "Repositories\\ITransactionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T19:12:40.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AccountApprovalRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\Repositories\\Impl\\AccountApprovalRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Impl\\AccountApprovalRepository.cs",
+              "ToolTip": "C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\Repositories\\Impl\\AccountApprovalRepository.cs",
+              "RelativeToolTip": "Repositories\\Impl\\AccountApprovalRepository.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T19:08:32.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IAccountApprovalRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\Repositories\\IAccountApprovalRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IAccountApprovalRepository.cs",
+              "ToolTip": "C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\Repositories\\IAccountApprovalRepository.cs",
+              "RelativeToolTip": "Repositories\\IAccountApprovalRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T19:07:52.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\Repositories\\Impl\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Impl\\AccountRepository.cs",
+              "ToolTip": "C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\Repositories\\Impl\\AccountRepository.cs",
+              "RelativeToolTip": "Repositories\\Impl\\AccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T18:34:01.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\Repositories\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IAccountRepository.cs",
+              "ToolTip": "C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\Repositories\\IAccountRepository.cs",
+              "RelativeToolTip": "Repositories\\IAccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T18:32:30.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BankDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\Models\\BankDBContext.cs",
+              "RelativeDocumentMoniker": "Models\\BankDBContext.cs",
+              "ToolTip": "C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\Models\\BankDBContext.cs",
+              "RelativeToolTip": "Models\\BankDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T18:27:26.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DbClass.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\DbClass.cs",
+              "RelativeDocumentMoniker": "DbClass.cs",
+              "ToolTip": "C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\DbClass.cs",
+              "RelativeToolTip": "DbClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T17:46:12.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive\\Documents\\phase-1\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "..\\..\\phase-1\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\mohan\\OneDrive\\Documents\\phase-1\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "..\\..\\phase-1\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T04:15:28.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "phase-1.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\obj\\Debug\\net6.0-windows\\phase-1.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net6.0-windows\\phase-1.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\obj\\Debug\\net6.0-windows\\phase-1.AssemblyInfo.cs",
+              "RelativeToolTip": "obj\\Debug\\net6.0-windows\\phase-1.AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T04:14:37.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AccountDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\AccountDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "AccountDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\AccountDashboard.Designer.cs",
+              "RelativeToolTip": "AccountDashboard.Designer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAD4vxYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T04:12:13.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AccountLogin.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\AccountLogin.cs",
+              "RelativeDocumentMoniker": "AccountLogin.cs",
+              "ToolTip": "C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\AccountLogin.cs",
+              "RelativeToolTip": "AccountLogin.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAD4vw4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T04:09:13.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive\\Documents\\backUp\\phase-1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\mohan\\source\\repos\\phase-1\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\phase-1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T04:01:43.331Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
